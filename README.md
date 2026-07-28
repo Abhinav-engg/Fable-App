@@ -2,7 +2,7 @@
 
 Fable is a interactive storytelling Android application built entirely with Kotlin and Jetpack Compose.
 
-## 📱 Features & Evaluation Points Addressed
+##  Features & Evaluation Points Addressed
 
 * **Immersive UI/UX:** Built a clean, editorial layout using Jetpack Compose with custom typography and negative space for readability. 
 * **Dynamic Theming:** Supports dynamic Light and Dark modes based on system preferences, along with a custom manual override toggle in the header.
@@ -10,14 +10,14 @@ Fable is a interactive storytelling Android application built entirely with Kotl
 * **Premium Animations (Bonus):** Integrated `Navigation Compose` to provide smooth `fadeIn` and `slideInHorizontally` transitions between the Home and Detail screens.
 * **Advanced Filtering (Bonus):** Built a custom Compose `LazyRow` filter system allowing users to sort stories by category (Mystery, Drama, etc.) alongside a "Favorites" toggle.
 
-## 🛠️ Tech Stack & Architecture
+##  Tech Stack & Architecture
 
 * **UI:** Jetpack Compose (Material 3)
 * **Language:** Kotlin
 * **State Management:** `StateFlow` and `ViewModel`
 * **Navigation:** Jetpack Navigation Compose
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Fable/
