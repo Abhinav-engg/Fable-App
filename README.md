@@ -17,6 +17,13 @@ Fable is a interactive storytelling Android application built entirely with Kotl
 * **State Management:** `StateFlow` and `ViewModel`
 * **Navigation:** Jetpack Navigation Compose
 
+
+## 🚀 Running the App
+1. Clone the repository and open it in Android Studio.
+2. Sync the Gradle files (Ensure you are using `compileSdk 37` or appropriate).
+3. Run the `:app` configuration on an emulator or physical device.
+
+
 ##  Project Structure
 
 ```text
